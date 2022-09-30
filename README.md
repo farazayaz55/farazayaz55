@@ -25,7 +25,9 @@
 
 ## ⚡ GitHub Activity Graph:
   <br/>
-   <a href="https://github.com/farazayaz55"><img alt="Faraz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=farazayaz55&custom_title=Faraz%20ud din's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/farazayaz55">
+	<img src="https://activity-graph.herokuapp.com/graph?username=farazayaz55&custom_title=Faraz%20ud%20din%27s%20Contribution%20Graph&theme=react-dark" />
+</a>
   <br/>
 
 ## 🐍 See my contributions being eaten by a snake:
