@@ -82,6 +82,10 @@
   <a href="https://www.w3adda.com/flutter-tutorial" target="_blank"> 
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-blue?logo=flutter"/>
   </a>
+  
+   <a href="https://www.angular.io/">
+    <img alt="Angular" src ="https://img.shields.io/badge/-Angular-red?logo=angular">
+   </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -95,8 +99,7 @@
 	&emsp;
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://shields.io/badge/mongo-db?logo=mongodb&logoColor=white"></a>
 	
-    &emsp;
-    <a href="https://www.angular.io/"><img alt="Angular" src ="https://img.shields.io/badge/-Angular-red?logo=angular"></a>
+  
  </p>
  
   
