@@ -78,6 +78,10 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
+	
+  <a href="https://www.w3adda.com/flutter-tutorial" target="_blank"> 
+    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-blue?logo=flutter"/>
+  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -90,6 +94,9 @@
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
 	&emsp;
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://shields.io/badge/mongo-db?logo=mongodb&logoColor=white"></a>
+	
+    &emsp;
+    <a href="https://www.angular.io/"><img alt="Angular" src ="https://img.shields.io/badge/-Angular-red?logo=angular"></a>
  </p>
  
   
