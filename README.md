@@ -31,7 +31,7 @@
   <br/>
 
 ## 🐍 See my contributions being eaten by a snake:
-![Snake Gif](https://github.com/HxnDev/HxnDev/blob/output/github-contribution-grid-snake.gif)
+![Snake Gif](https://github.com/farazayaz55/farazayaz55/blob/output/github-contribution-grid-snake.gif)
 
 ## 🛠️ My Skills
 
