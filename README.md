@@ -23,12 +23,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-## ⚡ GitHub Activity Graph:
-  <br/>
-   <a href="https://github.com/farazayaz55">
-	<img src="https://activity-graph.herokuapp.com/graph?username=farazayaz55&custom_title=Faraz%20ud%20din%27s%20Contribution%20Graph&theme=react-dark" />
-</a>
-  <br/>
+
 
 ## 🐍 See my contributions being eaten by a snake:
 ![Snake Gif](https://github.com/farazayaz55/farazayaz55/blob/output/github-contribution-grid-snake.gif)
